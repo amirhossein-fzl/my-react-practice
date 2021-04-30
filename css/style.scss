@@ -1,0 +1,18 @@
+@import "./fonts.scss";
+@import "~bootstrap/dist/css/bootstrap.rtl.min.css";
+
+html {
+    direction: rtl;
+}
+
+body {
+    font-family: IRANSans;
+}
+
+.time {
+    direction: ltr;
+}
+
+.bold {
+    font-weight: bold;
+}
